@@ -1,0 +1,26 @@
+.top-buffer {
+  padding-top: 5%;
+}
+
+#random-row {
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+
+#ran-btn {
+  border-radius: 50px;
+}
+
+#search-results {
+  color: black;
+}
+
+#search-results a {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+#search-results p {
+  border-bottom: dotted 2px;
+}
