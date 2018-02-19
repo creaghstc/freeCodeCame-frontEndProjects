@@ -1,0 +1,37 @@
+#info {
+  text-align: center;
+}
+
+.top-buffer {
+  padding-top: 15%;
+}
+
+#refresh-button{
+  color: white;
+}
+
+.btn{
+    opacity: .6;
+}
+
+p {
+  font-size: medium;
+  color: black;
+}
+
+.cloud{
+  background-image: url("https://desktopwalls.net/wp-content/uploads/2014/07/New%20York%20Black%20And%20White%20Cloudy%20Day%20Skyline%20Desktop%20Wallpaper.jpg");
+}
+
+.sun{
+  background-image: url("https://wallpapercave.com/wp/oWfnrb6.jpg");
+}
+
+.rain{
+  background-image: url("http://wallpaper-gallery.net/images/rainy-hd-wallpapers/rainy-hd-wallpapers-3.jpg");
+}
+
+body {
+
+  background-repeat: no-repeat;
+}
