@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.top-buffer {
+  padding-top: 10%;
+}
+
+#refresh-button {
+  color: white;
+}
+
+.btn {
+  opacity: .6;
+}
